@@ -4,10 +4,11 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "version" : "bun scripts/bump.ts"
+    "version": "bun scripts/bump.ts"
   },
   "devDependencies": {
     "@types/bun": "latest",
+    "semver": "^7.7.1",
     "semver-ts": "^1.0.1"
   },
   "peerDependencies": {
