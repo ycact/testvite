@@ -1,0 +1,13 @@
+{
+  "name": "testvite",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "semver-ts": "^1.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
